@@ -1,0 +1,6 @@
+setup.py
+depth2/func.py
+depth2.egg-info/PKG-INFO
+depth2.egg-info/SOURCES.txt
+depth2.egg-info/dependency_links.txt
+depth2.egg-info/top_level.txt
